@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m Md Adil Raza an Aspiring AI/ML Engineer<br> I’m looking for help with developing real world projects<br> I’m currently learning Advance Python and Machine Learning<br> I Love to spend the free times by playing Snooker and Singing<br><br>
+ I’m Md Adil Raza an Aspiring AI/ML Engineer<br> I’m looking for the help in developing real world projects<br> I’m currently learning Advance Python and Machine Learning<br> I Love to spend the free times by playing Snooker and Singing<br><br>
 
 
 ## 🌐 Socials:
